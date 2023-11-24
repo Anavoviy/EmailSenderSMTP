@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>EmailSender.SMTP</Title>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Anavoviy</Authors>
+    <PackageIcon>ico.png</PackageIcon>
+    <PackageTags>email;mail;mailsender;smtp;smtpsender;</PackageTags>
+    <PackageId>$(emailsendersmtp)</PackageId>
+    <Description>This nuget package is designed to better interact with SmtpClient</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="ico.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

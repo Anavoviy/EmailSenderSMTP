@@ -7,7 +7,7 @@
     <Title>Anavov4ik.EmailSender.SMTP</Title>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>Anavov4ik</Authors>
-	<PackageIconUrl>icon.png</PackageIconUrl>
+	<PackageIconUrl>ico.png</PackageIconUrl>
     <PackageTags>email;mail;mailsender;smtp;smtpsender;</PackageTags>
     <PackageId>Anavov4ik.EmailSender.SMTP</PackageId>
 	<Version>1.0.0</Version>

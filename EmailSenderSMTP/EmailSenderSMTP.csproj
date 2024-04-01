@@ -4,13 +4,20 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Title>EmailSender.SMTP</Title>
+    <Title>Anavov4ik.EmailSender.SMTP</Title>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Authors>Anavoviy</Authors>
+    <Authors>Anavov4ik</Authors>
     <PackageIcon>ico.png</PackageIcon>
     <PackageTags>email;mail;mailsender;smtp;smtpsender;</PackageTags>
-    <PackageId>$(emailsendersmtp)</PackageId>
-    <Description>This nuget package is designed to better interact with SmtpClient</Description>
+    <PackageId>Anavov4ik.EmailSender.SMTP</PackageId>
+	<Version>1.0.0</Version>
+	<Product>EmailSender.SMTP</Product>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<RepositoryUrl>https://github.com/Anavoviy/EmailSenderSMTP</RepositoryUrl>
+    <Description>
+		This nuget package is designed to better interact with SmtpClient.
+		This package = EmailSenderSMTP by Anavoviy. Anavoviy = Anavov4ik, I just forgot my email password
+	</Description>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,5 +26,6 @@
       <PackagePath>\</PackagePath>
     </None>
   </ItemGroup>
+
 
 </Project>
